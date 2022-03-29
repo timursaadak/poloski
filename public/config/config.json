@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x87Cddf881aCd3012F3CEe009D39D5B9003627eea",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x87cddf881acd3012f3cee009d39d5b9003627eea2",
+  "NETWORK": {
+    "NAME": "Mumbai",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "Poloski",
+  "SYMBOL": "PLS",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io",
+  "SHOW_BACKGROUND": true
+}
