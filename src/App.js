@@ -102,16 +102,16 @@ function App() {
   const [feedback, setFeedback] = useState(`Click buy to mint your NFT.`);
   const [mintAmount, setMintAmount] = useState(1);
   const [CONFIG, SET_CONFIG] = useState({
-    CONTRACT_ADDRESS: "",
-    SCAN_LINK: "",
+    CONTRACT_ADDRESS: "0x0c2519203b316816a25025332c9fd26a0c675962",
+    SCAN_LINK: "https://ropsten.etherscan.io/address/0x0c2519203b316816a25025332c9fd26a0c675962",
     NETWORK: {
-      NAME: "",
-      SYMBOL: "",
-      ID: 0,
+      NAME: "Ropsten",
+      SYMBOL: "ETH",
+      ID: 3,
     },
-    NFT_NAME: "",
-    SYMBOL: "",
-    MAX_SUPPLY: 1,
+    NFT_NAME: "Menen",
+    SYMBOL: "ZMMN",
+    MAX_SUPPLY: 10000,
     WEI_COST: 0,
     DISPLAY_COST: 0,
     GAS_LIMIT: 0,
